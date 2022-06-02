@@ -1,0 +1,153 @@
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\Morris_emui.exe.config
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\Morris_emui.exe
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\Morris_emui.pdb
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.Form1.resources
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.Properties.Resources.resources
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.csproj.GenerateResource.cache
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.csproj.CoreCompileInputs.cache
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.exe
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.pdb
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.main_ui.resources
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.csprojAssemblyReference.cache
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.help.resources
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.ASM.resources
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.exe.licenses
+C:\Users\ibnha\source\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.csproj.CopyComplete
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\Morris_emui.exe.config
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\Morris_emui.exe
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\Morris_emui.pdb
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Data.v21.2.xml
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Utils.v21.2.xml
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+F:\projects\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.csprojAssemblyReference.cache
+F:\projects\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.ASM.resources
+F:\projects\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.Form1.resources
+F:\projects\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.help.resources
+F:\projects\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.main_ui.resources
+F:\projects\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.Properties.Resources.resources
+F:\projects\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.csproj.GenerateResource.cache
+F:\projects\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.exe.licenses
+F:\projects\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.csproj.CoreCompileInputs.cache
+F:\projects\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.csproj.CopyComplete
+F:\projects\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.exe
+F:\projects\repos\Morris_emui\Morris_emui\obj\Debug\Morris_emui.pdb
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\Morris_emui.exe.config
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\Morris_emui.exe
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\Morris_emui.pdb
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\DevExpress.Data.v21.2.xml
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\DevExpress.Utils.v21.2.xml
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\obj\Debug\Morris_emui.csprojAssemblyReference.cache
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\obj\Debug\Morris_emui.ASM.resources
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\obj\Debug\Morris_emui.Form1.resources
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\obj\Debug\Morris_emui.help.resources
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\obj\Debug\Morris_emui.main_ui.resources
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\obj\Debug\Morris_emui.Properties.Resources.resources
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\obj\Debug\Morris_emui.csproj.GenerateResource.cache
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\obj\Debug\Morris_emui.exe.licenses
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\obj\Debug\Morris_emui.csproj.CoreCompileInputs.cache
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\obj\Debug\Morris_emui.csproj.CopyComplete
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\obj\Debug\Morris_emui.exe
+F:\projects\repos\morris mano emui\Morris_emui\Morris_emui\obj\Debug\Morris_emui.pdb
